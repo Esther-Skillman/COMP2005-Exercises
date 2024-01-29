@@ -1,1 +1,1 @@
-# COMP2005-Introduction
+# COMP2005-Exercises
