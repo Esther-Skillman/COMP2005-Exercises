@@ -17,4 +17,5 @@ public class MainTest {
         double result = Main.taxCalculator(income);
         assertEquals(result, 12914);
     }
+
 }
