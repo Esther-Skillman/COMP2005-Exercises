@@ -5,7 +5,7 @@
 - Test-Driven Development (TDD): is the process of developing and running automated test before actual development of the application. To perform a TDD, write the tests, then write the smallest amount of code necessary to make the tests pass. (Resisting the urge to write more code.)
 - Unit Testing: Each part of the system is tested individually so the test scope is much smaller and errors are isolated and detected earlier through either state-based testing (if it produces expected result) or INteraction-based testing (how the result was achieved)
 - Mock objects: used when real objects could be hard to trigger, is slow or does not yet exist for example.
-- User personas are profiles of a UI's target audience to provude clear definitons fo a target audience's goals and contexts, helping evaluators see things from the user's perspectives.
+- User personas: Profiles of a UI's target audience to provide clear definitons fo a target audience's goals and contexts, helping evaluators see things from the user's perspectives.
 
 ## Session 2
 ### Principles of SW Testing
