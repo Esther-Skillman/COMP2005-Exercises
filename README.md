@@ -2,13 +2,12 @@
 ## Terms
 - Cognitive load: How much the user has to use their cognitive ability to interact with a UI, the less the better and can be identified through a cognitive walkthrough.
 - Design lock-in: when a developer has a personal connection to a prototype they spent time on, adding complications when it must be scrapped or altered. (highlights the advantage of paper-based prototyping - less time and easily altered)
-- Test-Driven Development (TDD): is the process of developing and running automated test before actual development of the application. To perform a TDD, write the tests, then write the smallest amount of code necessary to make the tests pass. (Resisting the urge to write more code.)
+- Test-Driven Development (TDD): is the process of developing and running automated test before actual development of the application. To perform a TDD, write the tests, then write the smallest amount of code necessary to make the tests pass. (snakes and ladders in GitHub repository as an example)
 - Unit Testing: Each part of the system is tested individually so the test scope is much smaller and errors are isolated and detected earlier through either state-based testing (if it produces expected result) or INteraction-based testing (how the result was achieved)
 - Mock objects: used when real objects could be hard to trigger, is slow or does not yet exist for example.
 - User personas: Profiles of a UI's target audience to provide clear definitons fo a target audience's goals and contexts, helping evaluators see things from the user's perspectives.
 - Stubs: Used in Top-Down Integration Testing when lower-level of modules are missing when creating an upper-level module, so they are created with minimal code to effectively test the module thats being worked on.
 - Drivers: Used in Bottom-Up Intergration when higher-level of modules are missing when creating an lower-level module, so they are created with minimal code to effectively test the module thats being worked on.
-- TDD: Test-driven development, when tests are created before the actual code (snakes and ladders in GitHub repository as an example)
 
 ## Session 2
 ### Principles of SW Testing
