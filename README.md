@@ -9,6 +9,14 @@
 - Stubs: Used in Top-Down Integration Testing when lower-level of modules are missing when creating an upper-level module, so they are created with minimal code to effectively test the module thats being worked on.
 - Drivers: Used in Bottom-Up Intergration when higher-level of modules are missing when creating an lower-level module, so they are created with minimal code to effectively test the module thats being worked on.
 
+## Session 1 
+### SDLC - Software Development Lifecycle
+- Is sequences of phases that represent its life cycle from the identification of a problem to the production of software that solves the problem. These phases are:
+1) Analysis/ Specification - What should it do? Its constraints?
+2) Design and Implementation - Software components & their organization? How will it be programmed?
+3) Verification and Validation - Does the software conform to its specifications and meet the customer's needs?
+4) Evolution (Maintenance) - Can the software adapt to meet changing customer needs?
+
 ## Session 2
 ### Principles of SW Testing
 1) Testing shows presence of defects, not absence
